@@ -1,7 +1,7 @@
 ### Hello there, I'm Aaron. 
 ## Nice to have you here!
 
-<img align="right" alt="GIF" src="https://lh3.googleusercontent.com/proxy/PlQsVeluMu0_T4K3On9MrNN03-wsQZMqDJJMpQCM6aINK2T1SLzLxoYdtcrooZENv32YA-bGNYT6JFM7Hy0mxJ11m8XFv-RwcFFmlnMJjRaEN77IOPJWDp8VsWfD-8IW3so" width="500" height="320">
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*g9ee7RUD831R9n6Km5Jizg.gif" width="500" height="320">
 
 - 🔭 I’m currently working on my college degree
 - 🌱 I’m currently learning react-native
