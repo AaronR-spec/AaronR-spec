@@ -1,4 +1,4 @@
-### Hello there, I'm Aaron 🧙🏼‍♂️
+## Hello there, I'm Aaron 🧙🏼‍♂️
 
 <img align="right" alt="GIF" src="https://freepikpsd.com/media/2019/11/funny-gif-png-3-Transparent-Images.gif" width="300" height="300" />
 
@@ -43,7 +43,6 @@
 
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronR-spec)](https://github.com/AaronR-spec/github-readme-stats)
 
-<br>
 <br>
 <br>
 
