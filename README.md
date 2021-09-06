@@ -1,19 +1,22 @@
-## Hello there, I'm Aaron 🧙🏼‍♂️
+### 🧙🏼‍♂️ Hello there, I'm Aaron 🧙🏼‍♂️
 
 <img align="right" alt="GIF" src="https://freepikpsd.com/media/2019/11/funny-gif-png-3-Transparent-Images.gif" width="300" height="300" />
 
 ## 👋🏼Nice to have you here!
 
-- 🔭 I’m currently working on my college degree
+- 🔭 I’m currently working on my college degree (Final Year 🥳)
 - 🌱 I’m currently learning react-native
 - 👯 I’m looking to collaborate on an interesting open source
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about weeb stuff
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaronreihill/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: tall but scared of heights 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am tall but deathly scared of heights 
 
-### Languages and Tools:
+<br>
+<br>
+
+## Languages and Tools:
 
 <img align="left" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="26" height="26" />
 <img align="left" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="30" height="30" />
@@ -35,6 +38,8 @@
 <img align="left" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="26" height="26" />
 <img align="left" alt="GIF" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" width="26" height="26" />
 
+<br>
+<br>
 <br>
 <br>
 <br>
