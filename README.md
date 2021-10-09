@@ -47,17 +47,6 @@
 
 </p>
 <br>
-<br>
-<br>
-<br>
-<br>
-
-## GitHub Stat's
-
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronR-spec)](https://github.com/AaronR-spec/github-readme-stats)
-
-<br>
-<br>
 
 ## Top Languages
 
