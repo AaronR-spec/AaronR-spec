@@ -1,6 +1,6 @@
 ### 🧙🏼‍♂️ "Hello World", I'm Aaron 🧙🏼‍♂️
 
-<img align="right" alt="GIF" src="https://freepikpsd.com/media/2019/11/funny-gif-png-3-Transparent-Images.gif" width="300" height="300" />
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspanglishjmlp.wordpress.com%2F2020%2F11%2F26%2F5c-thursday-26th-november%2F&psig=AOvVaw30u4z51Bb6sNkFWeUE8PK7&ust=1633858829958000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDA_syEvfMCFQAAAAAdAAAAABAJ" width="300" height="300" />
 
 ## 👋🏼Nice to have you here!
 
