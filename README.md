@@ -4,8 +4,8 @@
 
 ## 👋🏼Nice to have you here!
 
-- 🔭 I’m currently working on my college degree (Final Year 🥳)
-- 🌱 I’m currently learning react-native
+- 🔭 I’m currently working full time as a Software Engineer
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on an interesting open source
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about weeb stuff
