@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on an interesting open source
 - 🤔 I’m looking for help with Docker
-- 💬 Ask me about weeb stuff
+- 💬 Ask me about Jujitsu
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaronreihill/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am tall but deathly scared of heights 
